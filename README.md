@@ -1,13 +1,13 @@
 
-# ex_w #96
+# ex_w #97
                 
 ```JSON
 {
-    "id": 96,
-    "key": "gS-4oAlOeMwNeMyZ&4wVgWiKrDnWaF@0cSxOoRiAcRyR=7cQiX",
+    "id": 97,
+    "key": "aJ_9hUpKhVcPsIfW!6kOxHwaThYvB!8pYgIgOzRayE#6bLcRtH",
     "author": "fwRelik",
     "owner": "fwRelik",
     "lisanceKey": null,
-    "date": "2022-9-28 01:00"
+    "date": "2022-9-30 02:58"
 }
 ```
